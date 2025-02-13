@@ -10,7 +10,7 @@ public class GitHub {
     public static void main(String[] args) {
         System.out.println("Inicio de practica 4.3: GitHub + Netbeans");
         System.out.println("Segundo cambio aplicado.");
-        System.out.println("Jose tonto");
+        System.out.println("Pablo tonto es la verdad.");
     }
     
 }
