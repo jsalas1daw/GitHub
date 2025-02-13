@@ -9,7 +9,6 @@ public class GitHub {
 
     public static void main(String[] args) {
         System.out.println("Inicio de practica 4.3: GitHub + Netbeans");
-        System.out.println("Segundo cambio aplicado.");
     }
     
 }
