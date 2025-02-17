@@ -1,12 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package github;
 
 /**
  *
- * @author Pablo Senande Sendón <B06H15105V@canariaseducacion.es>
+ * @author Jose Antonio Salas Ortiz <b06m22105m@canariaseducacion.es>
  */
 public class GitHub {
 
@@ -14,7 +11,7 @@ public class GitHub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Inicio de práctica 4.3:GitHub + NetBeans");
+        System.out.println("Commit con los cambios nuevos");
     }
     
 }
